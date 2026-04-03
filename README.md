@@ -7,13 +7,11 @@ This project analyzes **100K+ real-world e-commerce transactions** using SQL and
 ---
 
 ## 🎯 Business Objective
-
-To help e-commerce businesses:
-
-* Identify high-performing products
-* Understand customer purchasing patterns
-* Track revenue growth and seasonality
-* Enable targeted marketing strategies
+To analyze e-commerce transaction data and uncover insights that help:
+- Identify high-performing products  
+- Understand customer purchasing behavior  
+- Track revenue trends and seasonality  
+- Support data-driven marketing decisions  
 
 ---
 
@@ -67,13 +65,17 @@ sql-python-analytics/
 
 ---
 
+## 📈 Business Impact
+- Identified top-performing products contributing a major share of revenue  
+- Discovered seasonal revenue trends useful for demand forecasting  
+- Highlighted high-value customers for targeted marketing strategies  
+- Provided insights to optimize pricing and improve sales performance  
+
 ## 📊 Visual Insights
 
-[Revenue Trend](visuals/revenue_over_time.png)
-![alt text](rfm_segments.png)
-[Top Products](visuals/top_products.png)
-![alt text](rfm_heatmap.png)
----
+![Revenue Trend](visuals/revenue_over_time.png)
+![Top Products](visuals/top_products.png)
+![RFM Segments](visuals/rfm_segments.png)
 
 ## 🧠 Sample SQL Queries
 

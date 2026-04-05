@@ -1,26 +1,31 @@
-# 🛒 SQL + Python Real-World E-Commerce Analytics Project
+# 🛒 SQL + Python E-Commerce Analytics Project
 
 ## 📌 Overview
 
-This project analyzes **100K+ real-world e-commerce transactions** using SQL and Python to extract actionable business insights. The goal is to understand customer behavior, revenue trends, and product performance to support data-driven decision-making.
+This project analyzes **100K+ e-commerce transactions** using SQL and Python to uncover insights into customer behavior, product performance, and revenue trends. The goal is to support data-driven decision-making for business growth.
 
 ---
 
-## 🎯 Business Objective
-To analyze e-commerce transaction data and uncover insights that help:
+## 🎯 Business Problem
+
+E-commerce businesses often struggle to:
+
 - Identify high-performing products  
 - Understand customer purchasing behavior  
 - Track revenue trends and seasonality  
-- Support data-driven marketing decisions  
+- Improve customer retention strategies  
+
+This project solves these problems using data analysis and visualization.
 
 ---
 
 ## ⚙️ Tech Stack
 
-* **SQL (MySQL)** – Data querying & transformation
-* **Python (Pandas, NumPy)** – Data analysis
-* **Matplotlib & Seaborn** – Data visualization
-* **Jupyter Notebook** – Exploratory Data Analysis
+- SQL (MySQL) – Data querying & transformation  
+- Python (Pandas, NumPy) – Data analysis  
+- Matplotlib & Seaborn – Data visualization  
+- Jupyter Notebook – Exploratory Data Analysis  
+- Power BI – Interactive dashboard  
 
 ---
 
@@ -30,28 +35,34 @@ To analyze e-commerce transaction data and uncover insights that help:
 sql-python-analytics/
 │
 ├── data/
-│   ├── raw/                # Original datasets
-│   ├── processed/          # Cleaned dataset
+│ ├── raw/
+│ └── processed/
 │
 ├── notebooks/
-│   └── exploration.ipynb   # EDA and insights
+│ └── exploration.ipynb
 │
 ├── python/
-│   ├── data_export.py
-│   ├── eda_starter.ipynb
-│   └── filter_inserts.py
+│ ├── data_export.py
+│ └── filter_inserts.py
 │
 ├── sql/
-│   ├── schema.sql
-│   ├── load_data.sql
-│   ├── analysis_queries.sql
+│ ├── schema.sql
+│ ├── load_data.sql
+│ ├── analysis_queries.sql
 │
-├── visuals/                # Generated charts
-├── reports/                # Output reports
+├── dashboard/
+│ ├── ecommerce_dashboard.pbix
+│ └── dashboard_preview.png
+│
+├── visuals/
+│ ├── revenue_over_time.png
+│ ├── rfm_segments.png
+│ └── top_products.png
+│
+├── reports/
 │
 ├── README.md
 └── requirements.txt
-```
 
 ---
 
@@ -64,6 +75,14 @@ sql-python-analytics/
 * 💰 **Average Order Value:** Identified typical spending per transaction to guide pricing strategies
 
 ---
+
+## 📊 Interactive Dashboard
+
+### 📁 Power BI File
+`dashboard/ecommerce_dashboard.pbix`
+
+### 📸 Dashboard Preview
+![Dashboard Preview](dashboard/dashboard_preview.png)
 
 ## 📈 Business Impact
 - Identified top-performing products contributing a major share of revenue  

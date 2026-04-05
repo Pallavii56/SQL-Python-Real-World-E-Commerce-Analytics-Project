@@ -82,7 +82,8 @@ sql-python-analytics/
 `dashboard/ecommerce_dashboard.pbix`
 
 ### 📸 Dashboard Preview
-![Dashboard Preview](dashboard/dashboard_preview.png)
+<img width="1294" height="713" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/0406d14d-2608-4ee1-849e-de33668a3732" />
+
 
 ## 📈 Business Impact
 - Identified top-performing products contributing a major share of revenue  

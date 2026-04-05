@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes **100K+ e-commerce transactions** using SQL and Python to uncover insights into customer behavior, product performance, and revenue trends. The goal is to support data-driven decision-making for business growth.
+This project simulates a real-world e-commerce analytics scenario, where transaction data is processed using SQL and Python to uncover revenue trends, customer behavior, and product performance. The insights are visualized through an interactive Power BI dashboard to support data-driven decision-making.
 
 ---
 

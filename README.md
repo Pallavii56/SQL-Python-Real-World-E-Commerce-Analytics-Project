@@ -81,8 +81,10 @@ sql-python-analytics/
 ### 📁 Power BI File
 `dashboard/ecommerce_dashboard.pbix`
 
+This Power BI dashboard provides a visual overview of key business metrics including revenue trends, product performance, and customer insights.
+
 ### 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard/dashboard_preview.png)
 
 
 ## 📈 Business Impact

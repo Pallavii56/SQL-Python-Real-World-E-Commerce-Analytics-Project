@@ -82,10 +82,7 @@ sql-python-analytics/
 `dashboard/ecommerce_dashboard.pbix`
 
 ### 📸 Dashboard Preview
-<img width="1294" height="713" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/05d9c45a-5563-49c6-a6a0-51c54eb51fc8" />
 ![Dashboard Preview](dashboard/dashboard_preview.png)
-
-
 
 
 ## 📈 Business Impact

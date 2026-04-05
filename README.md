@@ -29,6 +29,11 @@ This project solves these problems using data analysis and visualization.
 
 ---
 
+## 🔄 End-to-End Workflow
+
+Raw Data → Data Cleaning (Python) → SQL Analysis → Data Visualization → Dashboard Insights
+
+
 ## 📂 Project Structure
 
 ```
@@ -81,7 +86,12 @@ sql-python-analytics/
 ### 📁 Power BI File
 `dashboard/ecommerce_dashboard.pbix`
 
-This Power BI dashboard provides a visual overview of key business metrics including revenue trends, product performance, and customer insights.
+This Power BI dashboard provides a clear view of business performance by analyzing:
+
+- Revenue trends over time  
+- Top-performing product categories  
+- Customer segmentation using RFM analysis  
+- Payment method distribution  
 
 ### 📸 Dashboard Preview
 ![Dashboard Preview](dashboard/dashboard_preview.png)
